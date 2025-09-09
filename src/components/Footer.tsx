@@ -98,25 +98,25 @@ const Footer = () => {
               <div className="flex items-center space-x-3">
                 <Mail className="h-5 w-5 text-blue-400" />
                 <a
-                  href="mailto:alex@example.com"
+                  href="mailto:ahmed.saidani@esprit.tn"
                   className="text-gray-300 hover:text-blue-400 transition-colors"
                 >
-                  alex@example.com
+                 ahmed.saidani@esprit.tn
                 </a>
               </div>
               <div className="flex items-center space-x-3">
                 <Phone className="h-5 w-5 text-blue-400" />
                 <a
-                  href="tel:+1234567890"
+                  href="tel:+21652706288"
                   className="text-gray-300 hover:text-blue-400 transition-colors"
                 >
-                  +1 (234) 567-8900
+                  +216 52 706 288
                 </a>
               </div>
               <div className="flex items-center space-x-3">
                 <MapPin className="h-5 w-5 text-blue-400" />
                 <span className="text-gray-300">
-                  San Francisco, CA
+                 Tunis - Tunisia
                 </span>
               </div>
             </div>
@@ -149,7 +149,7 @@ const Footer = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="flex items-center space-x-2 text-gray-400">
-              <span>© 2024 Alex Johnson. Made with</span>
+              <span>© 2025 Ahmed Saidani. Made with</span>
               <Heart className="h-4 w-4 text-red-500" />
               <span>and lots of coffee.</span>
             </div>
