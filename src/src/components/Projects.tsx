@@ -14,7 +14,7 @@ const Projects = () => {
     timeline: '7 days',
     technologies: ['React', 'Node.js', 'MongoDB', 'TypeScript'],
     githubUrl: 'https://github.com',
-    liveUrl: 'maximarentacar.netlify.app',
+     liveUrl: 'https://maximarentacar.netlify.app/',
     category: 'Full Stack'
   },
   {
