@@ -36,7 +36,7 @@ const Hero = () => {
               </h2>
               <p className="text-xl text-gray-600 max-w-2xl">
                 Crafting exceptional digital experiences with modern technologies. 
-                Specialized in MERN  and MEAN stack development and creating scalable web applications.
+                Specialized in MERN stack development and creating scalable web applications.
               </p>
             </div>
 
