@@ -18,7 +18,7 @@ const Footer = () => {
           <div className="lg:col-span-2 space-y-6">
             <div className="flex items-center space-x-2">
               <Code className="h-8 w-8 text-blue-400" />
-              <span className="font-bold text-2xl">Alex Johnson</span>
+              <span className="font-bold text-2xl">Ahmed Saidani</span>
             </div>
             <p className="text-gray-300 leading-relaxed max-w-md">
               Full Stack Web Developer passionate about creating exceptional digital experiences. 
@@ -33,14 +33,7 @@ const Footer = () => {
               >
                 <Github className="h-5 w-5" />
               </a>
-              <a
-                href="https://linkedin.com"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="p-3 bg-gray-800 rounded-lg hover:bg-blue-600 transition-all duration-300 hover:scale-110"
-              >
-                <Linkedin className="h-5 w-5" />
-              </a>
+             
               <a
                 href="mailto:alex@example.com"
                 className="p-3 bg-gray-800 rounded-lg hover:bg-blue-600 transition-all duration-300 hover:scale-110"
